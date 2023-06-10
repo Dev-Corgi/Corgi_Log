@@ -1,0 +1,74 @@
+.eventpanel-frame{
+    position: absolute;
+    left: 56.79%;
+    right: 0%;
+    top: 80.99%;
+    bottom: 0%;
+    overflow: hidden;
+    border-radius: 1.389vw;
+}
+
+.eventpanel-image{
+   position: absolute;
+   background-size: cover;
+   left: 0%;
+   top: 0%;
+   bottom: 0%;
+   right: 0%;
+}
+
+.eventpanel-foreground{
+    position: absolute;
+    top: 0%;
+    bottom: 0%;
+    left: 0px;
+    right: 0px;
+    
+    background: linear-gradient(90deg, #000000 0%, rgba(0, 0, 0, 0) 72.17%);
+}
+
+.eventpanel-titleframe{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 5.139vw;
+    height: 1.875vw;
+    left: 1.181vw;
+    top: 1.181vw;
+    
+    border: 1px solid #FFFFFF;
+    border-radius: 50px;
+}
+
+.eventpanel-titletext{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0.278vw;
+    
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 0.903vw;
+    text-align: center center;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+
+.eventpanel-descrption{
+    position: absolute;
+    width: auto;
+    height: auto;
+    left: 1.354vw;
+    top: 4.444vw;
+    
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.389vw;
+    /* identical to box height */
+    display: "flex";
+    flex-direction: row;
+    
+    color: #FFFFFF;
+}

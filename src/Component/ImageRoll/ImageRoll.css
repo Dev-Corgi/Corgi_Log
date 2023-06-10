@@ -1,0 +1,16 @@
+.imageroll-frame{
+position : absolute;
+overflow: hidden;
+left : 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+}
+
+.imageroll-image{
+position: absolute;
+left : 0%;
+top: 0%;
+width: auto;
+height: auto;
+}

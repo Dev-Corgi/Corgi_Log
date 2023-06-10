@@ -1,0 +1,57 @@
+.trendingnow-frame{
+position: absolute;
+left: 0%;
+right: 46.39%;
+top: 0%;
+bottom: 0%;
+border-radius: 1.389vw;
+overflow: hidden;
+}
+
+.trendingnow-photo{
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+background-size: cover;
+}
+
+.trendingnow-cornertext{
+    position: absolute;
+width: 19.097vw;
+height: 8.889vw;
+left: 0px;
+top: -2px;
+background-size: cover;
+}
+
+.trendingnow-foreground{
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 72.43%, #000000 100%);
+}
+
+.trendingnow-description{
+    position: absolute;
+left: 2.986vw;
+top: 80%;
+width: 43.333vw;
+height: 100px;
+
+font-family: 'Pretendard';
+font-style: normal;
+font-weight: 700; 
+font-size: 2.083vw;
+line-height: 2.639vw;
+text-align: left;
+white-space: pre-line;
+/* or 127% */
+
+
+color: #FFFFFF;
+}

@@ -1,0 +1,184 @@
+.drawer-frame{
+    position: absolute;
+    width: 24.931vw;
+    height: 21.458vw;
+    left: calc(50% - 24.931vw/2 + 0.590vw);
+    top: 33.889vw;
+}
+
+.drawer-musicprogressbar{
+    position: absolute;
+    left: 5.57%;
+    right: 5.6%;
+    top: 20.1%;
+    bottom: 68.86%;
+}
+
+.drawer-playicon{
+    position: absolute;
+    left: 76.54%;
+    right: 17.88%;
+    top: 46.08%;
+    bottom: 47.42%;
+    
+}
+
+.drawer-pauseicon{
+    position: absolute;
+    left: 89.39%;
+    right: 5.03%;
+    top: 46.08%;
+    bottom: 47.42%;
+}
+
+.drawer-trackframe{
+    position: absolute;
+    left: 4.47%;
+    right: 73.54%;
+    top: 60.19%;
+    bottom: 34.3%;
+}
+
+.drawer-trackicon{
+    position: absolute;
+    left: 0%;
+    right: 82.22%;
+    top: 15.03%;
+    bottom: 2.32%;
+
+}
+
+.drawer-tracktext{
+    position: absolute;
+    left: 26.54%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 0.972vw;
+    text-align: left;
+    /* identical to box height */
+    
+    
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.drawer-timerframe{
+    position: absolute;
+    left: 33.52%;
+    right: 50.14%;
+    top: 60.19%;
+    bottom: 34.3%;
+}
+
+.drawer-timericon{
+    position: absolute;
+    left: 0%;
+    right: 76.07%;
+    top: 15.03%;
+    bottom: 2.32%;
+
+}
+
+.drawer-timertext{
+    position: absolute;
+    left: 36.93%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 0.972vw;
+    text-align: left;
+    /* identical to box height */
+    
+    
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.drawer-homeicon{
+    position: absolute;
+    left: 12.81%;
+    right: 81.6%;
+    top: 79.86%;
+    bottom: 13.64%;
+}
+
+.drawer-menuicon{
+    position: absolute;
+    left: 35.67%;
+    right: 58.74%;
+    top: 79.86%;
+    bottom: 13.64%;
+}
+
+.drawer-searchicon{
+    position: absolute;
+    left: 58.53%;
+    right: 35.89%;
+    top: 79.86%;
+    bottom: 13.61%;
+}
+
+.drawer-subscribeicon{
+    position: absolute;
+    left: 81.38%;
+    right: 13.03%;
+    top: 79.86%;
+    bottom: 13.65%;
+}
+
+.drawer-musicinfoframe{
+    position: absolute;
+    left: 5.29%;
+    right: 55.43%;
+    top: 39.48%;
+    bottom: 43.04%;
+}
+
+.drawer-musicinfotitle{
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    width: auto;
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.736vw;
+    text-align: left;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+}
+
+.drawer-musicinfosinger{
+    position: absolute;
+    left: 0%;
+    top: 55.56%;
+    width: auto;
+    
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.389vw;
+    text-align: left;
+    /* identical to box height */
+    
+    
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.drawer-arrowicon{
+    position: absolute;
+    left: 46.24%;
+    right: 45.96%;
+    top: 1.29%;
+    bottom: 89.64%;
+}

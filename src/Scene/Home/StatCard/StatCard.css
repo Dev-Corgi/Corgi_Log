@@ -1,0 +1,81 @@
+.statcard-frame{
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+border-radius: 1.389vw;
+overflow: hidden;
+}
+
+.statcard-titleframe{
+    box-sizing: border-box;
+
+position: absolute;
+left: 9.8%;
+right: 60%;
+top: 10.31%;
+bottom: 75.77%;
+
+border: 0.069vw solid #000000;
+border-radius: 3.472vw;
+}
+
+.statcard-titletext{
+    position: absolute;
+    width: 100%;
+height: 100%;
+    top:0.2vw;
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 600;
+    text-align: center;
+    font-size: 0.903vw;
+    /* identical to box height */
+    
+    
+}
+
+.statcard-subtitle{
+    position: absolute;
+    width: 9.028vw;
+    height: 1.250vw;
+    left: 3.403vw;
+    top: 6.250vw;
+    
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.042vw;
+    /* identical to box height */
+    text-align: left;
+    
+    letter-spacing: 0.03em;
+    
+}
+
+.statcard-emoji{
+    position: absolute;
+    width: 1.389vw;
+    height: 1.389vw;
+    left: 1.667vw;
+    top: 6.181vw;
+}
+
+.statcard-stat{
+    position: absolute;
+    width: 15.556vw;
+    height: 4.583vw;
+    left: 1.458vw;
+    top: 7.431vw;
+    
+    font-family: 'Pretendard';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 3.819vw;
+    text-align: left;
+    /* identical to box height */
+    
+    
+}
